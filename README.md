@@ -16,4 +16,4 @@ The project will also leverage the CMSIS-DSP and PDMTOPCM libraries to preproces
 [This repository](https://github.com/FedericaPaoli1/stm32-speech-recognition-and-traduction) is the main inspiration and reference for this project. The project uses the above mentioned STM32 libraries to control the on-board LEDs' states by voice. This project extends this idea into the usage of voice to control a robot dog to be much like a real pet dog. The robot leg prototype used is built by a friend, the parts of the program involved with controlling the robot itself is fully custom and not in reference to any other repository. 
 
 ## system prelimeinary architecture
-[system architecture](sys_arch.jpg)
+![system architecture](sys_arch.jpg)
